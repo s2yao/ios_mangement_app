@@ -5,7 +5,7 @@ Helping workers to put batteries and record them efficiently.
 The schemas are saved to MongoDB
 
 # Demo image:
-<img src="https://github.com/user-attachments/assets/dddc3a0e-a6cd-44d0-baa6-d077c2b66132" alt="D536F5D1-E6C8-4815-B289-B20715CF736D" width="100">
+<img src="https://github.com/user-attachments/assets/dddc3a0e-a6cd-44d0-baa6-d077c2b66132" alt="D536F5D1-E6C8-4815-B289-B20715CF736D" width="300">
 
 ## Project Structure
 
