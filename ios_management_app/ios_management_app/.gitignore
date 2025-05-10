@@ -1,0 +1,81 @@
+# Xcode
+#
+## User settings
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+IDEWorkspaceChecks.plist
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+#
+iOSInjectionProject/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Config files with sensitive data
+# Add your specific config files here
+Config.swift
+ApiConfig.plist
+GoogleService-Info.plist
+Keys.swift
+Secrets.swift
+APIKeys.swift
+
+# Keep template files
+!ConfigTemplate.swift
+!ApiConfigTemplate.plist
+
+# Project specific
+DerivedData/
+.idea/
+*.hmap
+*.ipa
+*.xcarchive
+build/
+
+# Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+Packages/
+Package.pins
+.build/
