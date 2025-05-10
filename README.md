@@ -4,8 +4,8 @@ A full-stack inventory management application with an iOS frontend and Node.js b
 Helping workers to put batteries and record them efficiently.
 The schemas are saved to MongoDB
 
-# DEMO:
-![D536F5D1-E6C8-4815-B289-B20715CF736D](https://github.com/user-attachments/assets/dddc3a0e-a6cd-44d0-baa6-d077c2b66132)
+# Demo image:
+<img src="https://github.com/user-attachments/assets/dddc3a0e-a6cd-44d0-baa6-d077c2b66132" alt="D536F5D1-E6C8-4815-B289-B20715CF736D" width="100">
 
 ## Project Structure
 
